@@ -1,1 +1,1 @@
-# Fake_news_classifier_using_LSTM
+# Fake_news_classifier_using_LSTM_and_BiLSTM
